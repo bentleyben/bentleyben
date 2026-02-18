@@ -6,9 +6,8 @@ MS in Data Science @ University of Chicago with 3+ years of analytics experience
 
 ## Featured projects
 - **Diabetes Risk Modeling (NHIS)** — tabular propensity/risk modeling with interpretable drivers  
-  ➜ https://github.com/<bentleyben>/diabetes-risk-modeling-nhis
+  ➜ https://github.com/bentleyben/diabetes-risk-modeling-nhis
 - **Deep Learning for Image Classification** — CNN + ResNet-18 fine-tuning in PyTorch  
-  ➜ https://github.com/<bentleyben>/deep-learning-image-classification
-- **Sparse Graph Recovery (Ising) with MCMC** — structure learning via Gibbs sampling + optimization  
-  ➜ https://github.com/<bentleyben>/sparse-graph-recovery-ising
+  ➜ https://github.com/bentleyben/deep-learning-image-classification
+
 
