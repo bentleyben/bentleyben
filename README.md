@@ -4,7 +4,7 @@ MS in Data Science @ University of Chicago with 3+ years of analytics experience
 
 **Core skills:** Python • SQL • scikit-learn • PyTorch • pandas • model evaluation/ML pipelines • Tableau/Power BI
 
-## Featured projects (ordered by CPG relevance)
+## Featured projects
 - **Diabetes Risk Modeling (NHIS)** — tabular propensity/risk modeling with interpretable drivers  
   ➜ https://github.com/<bentleyben>/diabetes-risk-modeling-nhis
 - **Deep Learning for Image Classification** — CNN + ResNet-18 fine-tuning in PyTorch  
